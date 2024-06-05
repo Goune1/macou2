@@ -38,7 +38,7 @@ export default function Example() {
     e.preventDefault();
     try {
     console.log(formData)
-      const res = await axios.post('https://api-portfolio.gounevps.com/api/macouEmail', formData);
+      const res = await axios.post('http://localhost:3001/api/macouEmail', formData);
       console.log(res);
       // Réinitialiser le formulaire après un envoi réussi
       setFormData(initialFormData);

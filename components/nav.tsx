@@ -11,7 +11,7 @@ const navigation = [
   { name: 'Aux alentours', href: '/alentours' },
   { name: 'Se rendre à Macou 2', href: '/venir'},
   { name: 'Contact', href: '/contact'},
-  { name: 'Tarifs & réservations', href: '/tarif-reservations'},
+  { name: 'Réservations', href: '/reservations'},
 ]
 
 

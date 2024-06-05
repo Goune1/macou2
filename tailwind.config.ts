@@ -73,7 +73,7 @@ const config = {
       width: {
         customCarousel: '35rem',
         customImg: '35rem',
-        customCarouselMobile: '15rem'
+        customCarouselMobile: '13.5rem'
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
