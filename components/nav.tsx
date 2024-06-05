@@ -46,7 +46,7 @@ export default function Example() {
         </div>
         <div className="hidden lg:flex">
           <a className="text-sm font-semibold leading-6 cursor-pointer">
-              Se connecter<span aria-hidden="true">&rarr;</span>
+              Réserver<span aria-hidden="true">&rarr;</span>
           </a>
         </div>
       </nav>
@@ -82,7 +82,7 @@ export default function Example() {
               </div>
               <div className="py-6">
                 <a className="text-sm font-semibold leading-6 cursor-pointer">
-                  Se connecter<span aria-hidden="true">&rarr;</span>
+                  Réserver<span aria-hidden="true">&rarr;</span>
                 </a>
               </div>
             </div>
