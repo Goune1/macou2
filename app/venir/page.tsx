@@ -6,7 +6,7 @@ export default function venir() {
         <div className='min-h-screen'>
             <Nav/>
 
-            <h1 className='text-center text-3xl lg:text-5xl font-bold tracking-tight pt-24'>Comment venir à <span className='text-indigo-600'>Macou 2</span> ?</h1>
+            <h1 className='text-center text-3xl lg:text-5xl font-bold tracking-tight pt-24 p-4'>Comment venir à <span className='text-indigo-600'>Macou 2</span> ?</h1>
 
             <div className='flex justify-center mt-24'>
                 <div className='flex flex-col lg:flex-row p-4'>
