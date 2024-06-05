@@ -45,8 +45,8 @@ export default function Example() {
           </button>
         </div>
         <div className="hidden lg:flex">
-          <a className="text-sm font-semibold leading-6 cursor-pointer">
-              Réserver<span aria-hidden="true">&rarr;</span>
+          <a href='/reservations' className="text-sm font-semibold leading-6 cursor-pointer">
+            Réserver <span aria-hidden="true">&rarr;</span>
           </a>
         </div>
       </nav>
@@ -81,7 +81,7 @@ export default function Example() {
                 ))}
               </div>
               <div className="py-6">
-                <a className="text-sm font-semibold leading-6 cursor-pointer">
+                <a href='/reservations' className="text-sm font-semibold leading-6 cursor-pointer">
                   Réserver<span aria-hidden="true">&rarr;</span>
                 </a>
               </div>
