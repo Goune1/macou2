@@ -13,7 +13,7 @@ export default function laMaison() {
         <div className='min-h-screen'>
             <Nav/>
 
-            <h1 className='text-4xl lg:text-6xl text-center font-bold pt-24 tracking-tight'>Découvrez la maison !</h1>
+            <h1 className='text-4xl lg:text-6xl text-center font-bold pt-24 tracking-tight p-4'>Découvrez la maison !</h1>
 
             <div className='flex flex-col lg:flex-row justify-center mt-36 p-4 ml-12'>
                 <div className=''>

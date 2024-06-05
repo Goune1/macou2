@@ -12,7 +12,7 @@ export default function tarifETreservations() {
             <Nav/>
 
             <h1 className='text-center text-4xl lg:text-6xl font-bold mt-24 tracking-tight'>Réservations</h1>
-            <p className='text-center text-xl'>Voici où vous pourrez nous retrouver afin de réserver votre séjour chez nous</p>
+            <p className='text-center text-xl p-4'>Voici où vous pourrez nous retrouver afin de réserver votre séjour chez nous</p>
 
             <div className='mt-36 md:ml-20'>
                 <div className='flex flex-col md:flex-row justify-center'>
