@@ -15,7 +15,7 @@ export default function Example() {
               >
                 Découvrir
               </a>
-              <a href="tarifs-reservations" className="text-sm font-semibold leading-6 text-gray-900">
+              <a href="reservations" className="text-sm font-semibold leading-6 text-gray-900">
                 Réserver <span aria-hidden="true">→</span>
               </a>
             </div>
@@ -23,7 +23,7 @@ export default function Example() {
         </div>
         <div className="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0">
           <img
-            className="aspect-[3/2] w-full p-4 bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full mt-12"
+            className="aspect-[3/2] w-full p-4 md:p-0 bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full mt-12"
             src="home.jpg"
             alt=""
           />
