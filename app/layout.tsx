@@ -6,7 +6,7 @@ import { Toaster } from "@/components/ui/toaster"
 import { GeistSans } from 'geist/font/sans';
 
 export const metadata: Metadata = {
-  title: "Macou 2",
+  title: "Maison de Vacances Macou 2",
   description: "Macou 2 est une grande maison de vacances se situant dans le périgord. elle contient un spa, ce qui est un atout majeur",
 };
 
