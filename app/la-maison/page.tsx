@@ -19,10 +19,10 @@ export default function laMaison() {
                 <div className=''>
                     <Carousel className='w-customCarouselMobile lg:w-customCarousel'>
                         <CarouselContent className='z-1'>
-                            <CarouselItem><img src="/exterieur/1.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 1" /></CarouselItem>
-                            <CarouselItem><img src="/exterieur/2.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 2" /></CarouselItem>
-                            <CarouselItem><img src="/exterieur/3.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 3" /></CarouselItem>
-                            <CarouselItem><img src="/exterieur/4.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 4" /></CarouselItem>
+                            <CarouselItem><img src="/exterieur/1.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 1" /></CarouselItem>
+                            <CarouselItem><img src="/exterieur/2.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 2" /></CarouselItem>
+                            <CarouselItem><img src="/exterieur/3.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 3" /></CarouselItem>
+                            <CarouselItem><img src="/exterieur/4.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 4" /></CarouselItem>
                         </CarouselContent>
                         <CarouselNext className='z-50'/>
                         <CarouselPrevious className='z-50'/>
@@ -44,9 +44,9 @@ export default function laMaison() {
                 <div className='lg:ml-72'>
                     <Carousel className='w-customCarouselMobile lg:w-customCarousel'>
                         <CarouselContent className='z-1'>
-                            <CarouselItem><img src="/spa/1.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 1" /></CarouselItem>
-                            <CarouselItem><img src="/spa/2.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 2" /></CarouselItem>
-                            <CarouselItem><img src="/spa/3.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 3" /></CarouselItem>
+                            <CarouselItem><img src="/spa/1.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 1" /></CarouselItem>
+                            <CarouselItem><img src="/spa/2.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 2" /></CarouselItem>
+                            <CarouselItem><img src="/spa/3.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 3" /></CarouselItem>
                         </CarouselContent>
                         <CarouselNext className='z-50'/>
                         <CarouselPrevious className='z-50'/>
@@ -59,12 +59,12 @@ export default function laMaison() {
                 <div className=''>
                     <Carousel className='w-customCarouselMobile lg:w-customCarousel'>
                         <CarouselContent className='z-1'>
-                            <CarouselItem><img src="/sejour/1.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 1" /></CarouselItem>
-                            <CarouselItem><img src="/sejour/2.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 2" /></CarouselItem>
-                            <CarouselItem><img src="/sejour/3.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 3" /></CarouselItem>
-                            <CarouselItem><img src="/sejour/4.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 4" /></CarouselItem>
-                            <CarouselItem><img src="/sejour/5.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 5" /></CarouselItem>
-                            <CarouselItem><img src="/sejour/6.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 6" /></CarouselItem>
+                            <CarouselItem><img src="/sejour/1.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 1" /></CarouselItem>
+                            <CarouselItem><img src="/sejour/2.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 2" /></CarouselItem>
+                            <CarouselItem><img src="/sejour/3.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 3" /></CarouselItem>
+                            <CarouselItem><img src="/sejour/4.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 4" /></CarouselItem>
+                            <CarouselItem><img src="/sejour/5.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 5" /></CarouselItem>
+                            <CarouselItem><img src="/sejour/6.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 6" /></CarouselItem>
                         </CarouselContent>
                         <CarouselNext className='z-50'/>
                         <CarouselPrevious className='z-50'/>
@@ -88,12 +88,12 @@ export default function laMaison() {
                 <div className='lg:ml-72 pb-48'>
                     <Carousel className='w-customCarouselMobile lg:w-customCarousel'>
                         <CarouselContent className='z-1'>
-                            <CarouselItem><img src="/chambres/0.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 1" /></CarouselItem>
-                            <CarouselItem><img src="/chambres/1.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 2" /></CarouselItem>
-                            <CarouselItem><img src="/chambres/2.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 3" /></CarouselItem>
-                            <CarouselItem><img src="/chambres/5.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 4" /></CarouselItem>
-                            <CarouselItem><img src="/chambres/3.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 5" /></CarouselItem>
-                            <CarouselItem><img src="/chambres/4.JPG" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 6" /></CarouselItem>
+                            <CarouselItem><img src="/chambres/0.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 1" /></CarouselItem>
+                            <CarouselItem><img src="/chambres/1.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 2" /></CarouselItem>
+                            <CarouselItem><img src="/chambres/2.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 3" /></CarouselItem>
+                            <CarouselItem><img src="/chambres/5.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 4" /></CarouselItem>
+                            <CarouselItem><img src="/chambres/3.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 5" /></CarouselItem>
+                            <CarouselItem><img src="/chambres/4.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo chambre 6" /></CarouselItem>
                             
                         </CarouselContent>
                         <CarouselNext className='z-50'/>

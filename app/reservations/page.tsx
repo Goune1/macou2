@@ -37,6 +37,30 @@ export default function tarifETreservations() {
                     </div>
                 </div>
             </div>
+
+            <div className='mt-36'>
+                <div className='flex flex-col md:flex-row justify-center'>
+                    <a className='ml-8' href="https://fr.airbnb.be/rooms/14684208?source_impression_id=p3_1727873821_P3cxax1drsKeB8Ufhttps://www.airbnb.fr/rooms/14684208?adults=1&children=0&enable_m3_private_room=true&infants=0&location=macou%202&pets=0&search_mode=regular_search&check_in=2024-10-03&check_out=2024-10-08&source_impression_id=p3_1727873993_P3fNy5iq6LQgyIms&previous_page_section_name=1001&federated_search_id=e32723ef-860f-45dd-ad77-7e6bb659bc60" target='_blank' rel='noopener noreferrer'>
+                        <img src="airbnb.png" className='w-48 md:w-72' alt="logo abritel"/>
+                    </a>
+                    
+
+                    <div className='flex flex-col gap-y-4'>
+                        <h1 className='text-2xl lg:ml-12 text-center'>
+                            Retrouvez nous sur 
+                            <Link className='text-blue-700 inline-flex items-center ml-0.5 font-semibold underline' href='https://www.airbnb.fr/rooms/14684208?adults=1&children=0&enable_m3_private_room=true&infants=0&location=macou%202&pets=0&search_mode=regular_search&check_in=2024-10-03&check_out=2024-10-08&source_impression_id=p3_1727873993_P3fNy5iq6LQgyIms&previous_page_section_name=1001&federated_search_id=e32723ef-860f-45dd-ad77-7e6bb659bc60' target='_blank' rel='noopener noreferrer' >
+                                Airbnb
+                                <SquareArrowOutUpRight className='ml-1' />
+                            </Link>
+                        </h1>
+
+                        <div className='flex'>
+                            <p className='bg-green-700 w-16 py-1.5 text-center rounded-lg ml-12'>4,89/5</p>
+                            <p className='py-1.5 ml-2 font-semibold'>(18 avis)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
             
             <div className='mt-36'>
                 <div className='flex flex-col md:flex-row justify-center'>

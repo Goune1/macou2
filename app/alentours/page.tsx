@@ -10,7 +10,7 @@ export default function alentours() {
             <h1 className='text-3xl lg:text-5xl font-semibold tracking-tight text-center pt-24'>Que faire aux alentours de la maison ?</h1>
             
             <div className='flex flex-col lg:flex-row justify-center mt-36 p-4 ml-2.5 md:ml-12'>
-                <img src="alentours/monpazier.jpg" className='w-customImg' alt="Grande place de monpazier" />
+                <img src="alentours/monpazier.webp" className='w-customImg' alt="Grande place de monpazier" />
 
                 <div className='lg:ml-72 max-w-xl'>
                     <h1 className='text-3xl lg:text-5xl font-semibold'>Monpazier</h1>
@@ -25,12 +25,12 @@ export default function alentours() {
                 </div>
 
                 <div className='lg:ml-48'>
-                    <img src="alentours/chateau-de-biron.jpg" className='w-customImg' alt="Chateau de biron" />
+                    <img src="alentours/chateau-de-biron.webp" className='w-customImg' alt="Chateau de biron" />
                 </div>
             </div>
 
             <div className='flex flex-col lg:flex-row justify-center mt-36 p-4 ml-2.5 md:ml-12'>
-                <img src="alentours/beynac.jpg" className='w-customImg' alt="Beynac" />
+                <img src="alentours/beynac.webp" className='w-customImg' alt="Beynac" />
 
                 <div className='lg:ml-72 max-w-xl'>
                     <h1 className='text-3xl lg:text-5xl font-semibold'>Vallée de la Dordogne</h1>
@@ -45,7 +45,7 @@ export default function alentours() {
                 </div>
 
                 <div className='lg:ml-48'>
-                    <img src="alentours/sarlat.jpg" className='w-customImg' alt="" />
+                    <img src="alentours/sarlat.webp" className='w-customImg' alt="" />
                 </div>
             </div>
         </div>
