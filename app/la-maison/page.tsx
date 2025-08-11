@@ -65,6 +65,8 @@ export default function laMaison() {
                             <CarouselItem><img src="/sejour/4.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 4" /></CarouselItem>
                             <CarouselItem><img src="/sejour/5.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 5" /></CarouselItem>
                             <CarouselItem><img src="/sejour/6.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 6" /></CarouselItem>
+                            <CarouselItem><img src="/sejour/7.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 6" /></CarouselItem>
+                            <CarouselItem><img src="/sejour/8.webp" className='w-customCarouselMobile lg:w-customCarousel h-56 lg:h-96' alt="photo sejour 6" /></CarouselItem>
                         </CarouselContent>
                         <CarouselNext className='z-50'/>
                         <CarouselPrevious className='z-50'/>
@@ -103,4 +105,5 @@ export default function laMaison() {
             </div>
         </div>
     )
+
 }
